@@ -1,7 +1,7 @@
 #from operator import truediv
 #import pyautogui
 
-#
+#THIS IS AD SKIPPER FOR YOUTUBE
 import pyautogui
 pyautogui.FAILSAFE = True
 
